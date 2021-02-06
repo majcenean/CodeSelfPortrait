@@ -5,7 +5,6 @@
 // Global variables
 var debugMode = true;
 
-
 // Window resize
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
@@ -19,13 +18,13 @@ function setup() {
 // Draw function
 function draw() {
   background('#B7CCD5');
+  fill('#fff');
+  stroke('#fff');
 
-// Toggle debug Mode
+	// Toggle debug Mode
   if( debugMode == true ) {
   	drawDebugInfo();
   }
-
-  
 
 }
 
