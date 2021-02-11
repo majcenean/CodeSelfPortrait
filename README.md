@@ -28,3 +28,6 @@ Inconsolata
 
 ##### face-sketch.JPEG
 This is the original sketch which this project was based upon.
+
+##### p5sketch-screenshot.PNG
+This is what the website is supposed to look like.
