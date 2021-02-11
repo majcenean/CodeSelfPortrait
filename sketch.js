@@ -86,8 +86,6 @@ function windowResized() {
 function preload() {
     louisGeorgeCafe = loadFont('Louis-George-Cafe-Bold.otf');
     inconsolata = loadFont('Inconsolata.otf');
-    faceImg = loadImage('face_sketch.png');
-    portraitImg = loadImage('portrait_sketch.png');
 }
 
 /*************************************************************************
